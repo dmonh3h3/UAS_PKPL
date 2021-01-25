@@ -109,5 +109,5 @@ echo '<br>';
 // Operasi menu pengurangan
 Calculator::pilihan('pengurangan')->execute($nilai);
 echo '<br>';
-// Operasi menu pembagian
+// Operasi menu kuadrat
 Calculator::pilihan('kuadrat')->execute($nilai);
